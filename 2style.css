@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+
+    background-image: url(https://t3.ftcdn.net/jpg/03/51/51/28/360_F_351512882_2kFH8IaSe4lyA7SXBLzEXyGKNEgbO1iH.jpg) ;
+    
+   background-position-x: center;
+   margin-top: 15px;
+  background: center center cover no-repeat fixed;
+background-size: cover;
+   text-align: center;
+}
+
+.back{
+    padding: 5px;
+    font-size: large;
+    font-weight: 200;
+    text-decoration: underline;
+    background-color: white;
+    border: none;
+}
+
+
+
+h1{
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size:40px;
+    font-weight: 500;
+
+}
+
+p1{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.ibutton{
+    margin: 0;
+    background: rgb(161, 152, 156)center 15px;
+    display: inline-block;
+    padding: 0 90px;
+    border: 3px solid rgb(58, 25, 25);
+    border-radius: 25px;    
+    padding: 8px;
+    font-size: xx-large;
+    font-weight: 800;
+    color: rgb(59, 28, 78);
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 60vh;
+    width:55vh;
+    margin: auto;
+    font-size: larger;
+}
+.email{
+    height: 5vh;
+    width: 45vh;
+}
+

@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+
+    background-image: url(https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_79603-1847.jpg) ;
+    
+   background-position-x: center;
+   margin-top: 15px;
+  background: center center cover no-repeat fixed;
+background-size: cover;
+
+}
+
+.screen{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+    cursor: pointer;
+}
